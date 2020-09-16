@@ -1,12 +1,12 @@
 {
-    "name": "beyondcode/laravel-comments",
+    "name": "mydnic/laravel-comments",
     "description": "Add comments to your Laravel application",
     "keywords": [
         "beyondcode",
         "comments",
         "laravel-comments"
     ],
-    "homepage": "https://github.com/beyondcode/laravel-comments",
+    "homepage": "https://github.com/mydnic/laravel-comments",
     "license": "MIT",
     "authors": [
         {
